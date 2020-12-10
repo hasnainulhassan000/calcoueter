@@ -1,0 +1,16 @@
+button {
+    width: 40px;
+    background-color: aqua;
+}
+.clear{
+    width: 172px;
+}
+#inpu {
+    background-color: aqua;
+    width: 164px;
+}
+#asif {
+    text-align: center;
+    background-image: linear-gradient(green,blue,aqua);
+
+}
